@@ -6,10 +6,8 @@ It uses the ISBN as an index and uses SRU searching to find local print, ebook, 
 
 It also checks your network zone for consortial ebook holdings that your library have access to.
 
-*NOTE: currently GobiChecker is only for institutions with both an IZ and NZ. 
-
 ## Technical Requirements
-RoboReturns in a windows program that can be run on either 32 or 64-bit systems.
+GobiChecker is a windows program that can be run on either 32 or 64-bit systems.
 
 It is a portable app that can run locally on your desktop or else a usb flash drive.
 
