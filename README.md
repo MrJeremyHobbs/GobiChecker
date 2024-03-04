@@ -16,6 +16,3 @@ Check the [releases](https://github.com/MrJeremyHobbs/GobiChecker/releases) tab 
 
 ## Documentation
 Documentation is included. You can also view it by clicking [here](https://github.com/MrJeremyHobbs/GobiChecker/blob/master/docs/GobiChecker_2_1.pdf).
-
-## Tutorial
-[![TUTORIAL](https://img.youtube.com/vi/_EktG7e3RbA/hqdefault.jpg)](https://www.youtube.com/watch?v=_EktG7e3RbA)
